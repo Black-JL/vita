@@ -1,0 +1,15 @@
+title: Jared Black
+logo: /assets/img/pic.png
+show_downloads: false
+theme: jekyll-theme-minima
+custom_css: /assets/css/styles.css
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: "Jared Black"
+  links:
+    - "https://www.linkedin.com/in/jared-black-a1420a32/"
+    - "mailto:jared.black@baylor.edu"
+    - "https://substack.com/@jlblack"
