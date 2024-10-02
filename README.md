@@ -30,3 +30,4 @@ Group Health Cooperative, WA:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jared-black-a1420a32/)
 - [Email](mailto:jared.black@baylor.edu)
 - [Substack](https://substack.com/@jlblack)
+- [GitHub](https://github.com/Black-JL)
