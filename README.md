@@ -8,7 +8,7 @@
 ### Experience
 Military Healthcare System:
 - 2019 - 2022 Chief of Managed Care and Program Analysis, Regional Health Command Europe, Sembach, Germany
-- 2018 - 2019 Executive Officer, Madigan Army Medical Center, JBLM, WA
+- 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
 - 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center, JBLM, WA
 - 2005 - 2015 Medical Services Officer, U.S. Army
 
