@@ -1,7 +1,7 @@
 # Academic Researcher
 
 ### Education
-- Health Research and Policy, PhD Candidate
+- Health Research and Policy, PhD Candidate [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
