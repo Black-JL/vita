@@ -1,11 +1,14 @@
 # Academic Researcher
 
 ### Education
-- Health Research and Policy, PhD Candidate [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
+- Health Research and Policy, Ph.D. Candidate [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
 ### Experience
+Current:
+- 2022 - current Health Research and Policy, Ph.D. Student
+
 Military Healthcare System:
 - 2019 - 2022 Chief of Managed Care and Program Analysis, Regional Health Command Europe, Sembach, Germany
 - 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
