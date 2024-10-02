@@ -21,7 +21,7 @@ Group Health Cooperative, WA:
   - The Effect of Decriminalizing Psychedelics on Public Health (Working paper)
   - The Farm Bill and Cannabis Effects (Working paper)
 - ElectionGPT (Working) [App](https://black-jl.shinyapps.io/ElectionGPT_2024/)
-- ["Ask and Economist" GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
+- "Ask and Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
 
 ---
 
