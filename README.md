@@ -19,7 +19,7 @@ Group Health Cooperative, WA:
 - 2014 - 2015 Administrative Resident
 
 ### Projects
-- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances (Working paper)
+- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances [(Presentation)](presentations/More_Ado_about_Nothing__Hospital_Data_Breach_Effects___Wages___Beamer.pdf)
 - Drug Policy:
   - The Effect of Decriminalizing Psychedelics on Public Health (Working paper)
   - The Farm Bill and Cannabis Effects (Working paper)
