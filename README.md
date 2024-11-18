@@ -30,7 +30,8 @@ Group Health Cooperative, WA:
 
 ### Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jared-black-a1420a32/)
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jared.black@baylor.edu)
-- [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=substack)](https://substack.com/@jlblack)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jared-black-a1420a32/)
 - [![GitHub](https://img.shields.io/badge/GitHub-View-grey?logo=github)](https://github.com/Black-JL)
+- [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=substack)](https://substack.com/@jlblack)
+
