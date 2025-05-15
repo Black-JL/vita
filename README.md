@@ -21,8 +21,9 @@ Group Health Cooperative, WA:
 ### Projects
 - More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances [(Presentation)](presentations/More_Ado_about_Nothing__Hospital_Data_Breach_Effects___Wages___Beamer.pdf)
 - Drug Policy:
-  - The Effect of Decriminalizing Psychedelics on Public Health (Working paper)
-  - The Farm Bill and Cannabis Effects (Working paper)
+  - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
+  - Inpatient Outcomes After Psychedelic Decriminalization (Working paper)
+  - [Recorded Discussion](https://notebooklm.google.com/notebook/190c9c40-5f88-406a-932a-429cee205d14/audio)
 - ElectionGPT (Working) [Shiny Web App](https://black-jl.shinyapps.io/ElectionGPT_2024/)
 - "Ask and Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
 
