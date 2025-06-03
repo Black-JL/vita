@@ -4,7 +4,7 @@
 - Professor of Health and Business Management [Army-Baylor MHA | MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
-- Health Research and Policy, Ph.D. [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
+- Health Research and Policy, Ph.D. [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
