@@ -2,11 +2,11 @@
 
 ### Current Position
 - Professor of Health and Business Management
-[Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
+  - [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
 - Health Research and Policy, Ph.D.
-[Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
+  - [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
@@ -14,11 +14,16 @@
 - 2022 - 2025 Ph.D. Student
 
 Military Healthcare System:
-- 2019 - 2022 Chief of Managed Care and Program Analysis, Regional Health Command Europe, Sembach, Germany
-- 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
-- 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center, JBLM, WA
-- 2014 - 2015 Administrative Resident, Group Health Cooperative, Seattle, WA
-- 2005 - 2015 Medical Services Officer, U.S. Army
+- 2019 - 2022 Chief of Managed Care and Program Analysis
+  - Regional Health Command Europe, Sembach, Germany
+- 2018 - 2019 Executive Officer
+  - [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
+- 2015 - 2018 Chief of Managed Care
+  - Madigan Army Medical Center, JBLM, WA
+- 2014 - 2015 Administrative Resident
+  - Group Health Cooperative, Seattle, WA
+- 2005 - 2015 Medical Services Officer
+  - U.S. Army
 
 ### Projects
 - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
