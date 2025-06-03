@@ -1,29 +1,26 @@
-# Academic Researcher
+# Current Position
+- Professor of Health and Business Management [Army-Baylor MHA | MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
-- Health Research and Policy, Ph.D. Candidate [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
+- Health Research and Policy, Ph.D. [Baylor University Hankamer School of Business](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
-### Experience
-Current:
-- 2022 - current Health Research and Policy, Ph.D. Student
+### Experience 
+- 2022 - 2025 Ph.D. Student
 
 Military Healthcare System:
 - 2019 - 2022 Chief of Managed Care and Program Analysis, Regional Health Command Europe, Sembach, Germany
 - 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
 - 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center, JBLM, WA
+- 2014 - 2015 Administrative Resident, Group Health Cooperative, Seattle, WA
 - 2005 - 2015 Medical Services Officer, U.S. Army
 
-Group Health Cooperative, WA:
-- 2014 - 2015 Administrative Resident
-
 ### Projects
-- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances [(Presentation)](presentations/More_Ado_about_Nothing__Hospital_Data_Breach_Effects___Wages___Beamer.pdf)
-- Drug Policy:
-  - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
-  - Inpatient Outcomes After Psychedelic Decriminalization (Working paper)
+- Psychedelic Decriminalization Effects on Emergency Care (Working paper)
+- Inpatient Outcomes After Psychedelic Decriminalization (Working paper)
   - [Recorded Discussion](https://notebooklm.google.com/notebook/190c9c40-5f88-406a-932a-429cee205d14/audio)
+- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances
 - ElectionGPT (Working) [Shiny Web App](https://black-jl.shinyapps.io/ElectionGPT_2024/)
 - "Ask and Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
 
