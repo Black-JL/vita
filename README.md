@@ -2,7 +2,7 @@
 
 ### Current Position
 - Professor of Health and Business Management
-  - [Army-Baylor MHA|MBA Program](https://hankamer.baylor.edu/army-baylor)
+  - [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
 - Health Research and Policy, Ph.D.
