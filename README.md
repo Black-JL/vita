@@ -1,17 +1,16 @@
 # Academic Researcher
 
 ### Current Position
-- Professor of Health and Business Management
-  - [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
+- Professor [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
-- Health Research and Policy, Ph.D.
+- Health Research and Policy, PhD
   - [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
 - Economics, MS
 - Health Administration, MHA
 
 ### Experience 
-- 2022 - 2025 Ph.D. Student
+- 2022 - 2025 PhD Student
 
 Military Healthcare System:
 - 2019 - 2022 Chief of Managed Care and Program Analysis
