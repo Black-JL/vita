@@ -1,7 +1,7 @@
 # Academic Researcher
 
 ### Current Position
-- Professor [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
+- Assistant Professor [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
 
 ### Education
 - Health Research and Policy, PhD
