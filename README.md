@@ -1,12 +1,11 @@
-# Assistant Professor | Health Economist
-## [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
+## Assistant Professor | Health Economist
+### [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
 
 ### Research Interests
 - Health Economics
 - Causal Inference
 - Public Policy
 - Applied Microeconomics
-
 
 ### Current Projects
 - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
@@ -35,7 +34,7 @@
 - 2022 - 2025 PhD Student
 - 2019 - 2022 Chief of Managed Care and Program Analysis, RHCE, Germany
 - 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan)
-- 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center, JBLM, WA
+- 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center
 - 2014 - 2015 Administrative Resident, Group Health Cooperative
 - 2005 - 2015 Medical Services Officer, U.S. Army
 
