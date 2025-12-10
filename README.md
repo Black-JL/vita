@@ -1,8 +1,12 @@
 # Assistant Professor | Health Economist
-- [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
+## [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
 
 ### Research Interests
-Applied Microeconomics · Causal Inference · Health Economics · Public Policy
+- Health Economics
+- Causal Inference
+- Public Policy
+- Applied Microeconomics
+
 
 ### Current Projects
 - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
