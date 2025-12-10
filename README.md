@@ -31,6 +31,17 @@ Military Healthcare System:
 - ElectionGPT (Working)
 - "Ask and Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
 
+### Teaching
+- Economics for MBA's
+- Macroeconomics
+- Health Economics
+
+### Presentations
+- 2024 - STATA Texas Empirical Microeconomics Conference, Dallas Fed (Poster)
+- 2024 - Southern Economics Association Conference Washington D.C.
+- 2025 - AEA/ASSA San Fransisco, CA
+- 2025 - Stephenson Institute
+
 ---
 
 ### Connect with Me
