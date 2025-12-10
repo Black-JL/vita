@@ -9,7 +9,7 @@
 
 ### Current Projects
 - Psychedelic Decriminalization Effects on Emergency Care
-- Inpatient Outcomes After Psychedelic Decriminalization [Recorded Discussion](https://notebooklm.google.com/notebook/190c9c40-5f88-406a-932a-429cee205d14/audio)
+- Inpatient Outcomes After Psychedelic Decriminalization
 - More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances
 - ElectionGPT
 - "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
