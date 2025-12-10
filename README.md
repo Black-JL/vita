@@ -1,38 +1,18 @@
-# Academic Researcher
+# Assistant Professor | Health Economist
+- [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
 
-### Current Position
-- Assistant Professor [Army-Baylor MHA-MBA Program](https://hankamer.baylor.edu/army-baylor)
+### Research Interests
+Applied Microeconomics · Causal Inference · Health Economics · Public Policy
 
-### Education
-- Health Research and Policy, PhD
-  - [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
-- Economics, MS
-- Health Administration, MHA
-
-### Experience 
-- 2022 - 2025 PhD Student
-
-Military Healthcare System:
-- 2019 - 2022 Chief of Managed Care and Program Analysis
-  - Regional Health Command Europe, Sembach, Germany
-- 2018 - 2019 Executive Officer
-  - [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan), JBLM, WA
-- 2015 - 2018 Chief of Managed Care
-  - Madigan Army Medical Center, JBLM, WA
-- 2014 - 2015 Administrative Resident
-  - Group Health Cooperative, Seattle, WA
-- 2005 - 2015 Medical Services Officer
-  - U.S. Army
-
-### Projects
+### Current Projects
 - Psychedelic Decriminalization Effects on Emergency Care (Working paper)
 - Inpatient Outcomes After Psychedelic Decriminalization (Working paper) [Recorded Discussion](https://notebooklm.google.com/notebook/190c9c40-5f88-406a-932a-429cee205d14/audio)
 - More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances
 - ElectionGPT (Working)
-- "Ask and Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
+- "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
 
 ### Teaching
-- Economics for MBA's
+- Economics for MBAs
 - Macroeconomics
 - Health Economics
 
@@ -41,6 +21,19 @@ Military Healthcare System:
 - 2024 - Southern Economics Association Conference Washington D.C.
 - 2025 - AEA/ASSA San Fransisco, CA
 - 2025 - Stephenson Institute
+
+### Education
+- Health Research and Policy, PhD - [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
+- Economics, MS - Baylor University
+- Health Administration, MHA - Baylor University
+
+### Experience 
+- 2022 - 2025 PhD Student
+- 2019 - 2022 Chief of Managed Care and Program Analysis, RHCE, Germany
+- 2018 - 2019 Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan)
+- 2015 - 2018 Chief of Managed Care, Madigan Army Medical Center, JBLM, WA
+- 2014 - 2015 Administrative Resident, Group Health Cooperative
+- 2005 - 2015 Medical Services Officer, U.S. Army
 
 ---
 
