@@ -1,6 +1,6 @@
 # Jared L. Black  
 ### Assistant Professor of Economics  
-Army–Baylor Graduate Program, MHA/MBA  
+ [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)  
 
 I am an applied microeconomist studying health economics and public policy, with a focus on causal inference in healthcare systems.
 
