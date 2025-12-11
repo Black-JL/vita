@@ -10,11 +10,11 @@ I am an applied microeconomist studying health economics and public policy, with
 - Applied Microeconomics  
 
 ## Current Projects
-- *Psychedelic Decriminalization Effects on Emergency Care* 
-- *Inpatient Outcomes After Psychedelic Decriminalization* 
-- *More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances*  
-- *ElectionGPT* 
-- *“Ask an Economist” [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)*  
+- Psychedelic Decriminalization Effects on Emergency Care 
+- Inpatient Outcomes After Psychedelic Decriminalization 
+- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances  
+- ElectionGPT
+- “Ask an Economist” [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)  
 
 ## Teaching
 - Economics for MBAs  
