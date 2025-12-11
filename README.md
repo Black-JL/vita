@@ -1,7 +1,4 @@
-## Assistant Professor of Health Economics  
-## Army-Baylor Graduate Program, [MHA/MBA](https://hankamer.baylor.edu/army-baylor)  
-
-## Assistant Professor of Health Economics<br>Army–Baylor Graduate Program (MHA/MBA)
+## Assistant Professor of Health Economics<br>Army–Baylor Graduate Program [MHA/MBA](https://hankamer.baylor.edu/army-baylor)  
 
 I am an applied microeconomist studying health economics and public policy, with a focus on causal inference in healthcare systems.
 
