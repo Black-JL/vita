@@ -1,45 +1,53 @@
-## Assistant Professor | Health Economist
-### [Army-Baylor Graduate Program, MHA/MBA](https://hankamer.baylor.edu/army-baylor)
+# Jared L. Black  
+### Assistant Professor of Economics  
+Army–Baylor Graduate Program, MHA/MBA  
 
-### Research Interests
-- Health Economics
-- Causal Inference
-- Public Policy
-- Applied Microeconomics
+I am an applied microeconomist studying health economics and public policy, with a focus on causal inference in healthcare systems.
 
-### Current Projects
-- Psychedelic Decriminalization Effects on Emergency Care
-- Inpatient Outcomes After Psychedelic Decriminalization
-- More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances
-- ElectionGPT
-- "Ask an Economist" [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist) 
+## Research Interests
+- Health Economics  
+- Causal Inference  
+- Public Policy  
+- Applied Microeconomics  
 
-### Teaching
-- Economics for MBAs
-- Macroeconomics
-- Health Economics
+## Current Projects
+- *Psychedelic Decriminalization Effects on Emergency Care* (Working paper)  
+- *Inpatient Outcomes After Psychedelic Decriminalization* (Working paper)  
+- *More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances*  
+- *ElectionGPT* (Working)  
+- *“Ask an Economist” GPT*  
 
-### Presentations
-- 2025 - Stephenson Institute
-- 2025 - AEA/ASSA San Fransisco, CA
-- 2024 - Southern Economics Association Conference Washington D.C.
-- 2024 - STATA Texas Empirical Microeconomics Conference, Dallas Fed (Poster)
+## Teaching
+- Economics for MBAs  
+- Macroeconomics  
+- Health Economics  
 
+## Presentations
+- 2025 — Stephenson Institute  
+- 2025 — AEA/ASSA, San Francisco, CA  
+- 2024 — Southern Economics Association Conference, Washington, D.C.  
+- 2024 — STATA Texas Empirical Microeconomics Conference, Dallas Fed (Poster)  
 
-### Education
-- Health Research and Policy, PhD - [Baylor University Department of Economics](https://hankamer.baylor.edu/economics)
-- Economics, MS - Baylor University
-- Health Administration, MHA - Baylor University
+## Education
+- PhD, Health Research and Policy — Baylor University, Department of Economics  
+- MS, Economics — Baylor University  
+- MHA, Health Administration — Baylor University  
 
-### Experience 
-- 2022 - 2025 - PhD Student
-- 2019 - 2022 - Chief of Managed Care and Program Analysis, RHCE, Germany
-- 2018 - 2019 - Executive Officer, Madigan Army Medical Center
-- 2015 - 2018 - Chief of Managed Care, Madigan Army Medical Center
-- 2014 - 2015 - Administrative Resident, Group Health Cooperative
-- 2005 - 2015 - Medical Services Officer, U.S. Army
+## Experience
+- 2022–2025 — PhD Researcher, Military Health System  
+- 2019–2022 — Chief of Managed Care and Program Analysis, RHCE, Germany  
+- 2018–2019 — Executive Officer, Madigan Army Medical Center  
+- 2015–2018 — Chief of Managed Care, Madigan Army Medical Center  
+- 2014–2015 — Administrative Resident, Group Health Cooperative  
+- 2005–2015 — Medical Services Officer, U.S. Army  
 
 ---
+
+## Connect with Me
+- **Email:** mailto:jared.black@baylor.edu  
+- **LinkedIn:** https://www.linkedin.com/in/jared-black-a1420a32/  
+- **GitHub:** https://github.com/Black-JL  
+- **Substack:** https://substack.com/@jlblack  
 
 ### Connect with Me
 
