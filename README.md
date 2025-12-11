@@ -27,9 +27,9 @@ I am an applied microeconomist studying health economics and public policy, with
 - 2024 — STATA Texas Empirical Micro Conference, Dallas (Poster)  
 
 ### Education
-- PhD, Health Research and Policy — Baylor University, Department of Economics  
-- MS, Economics — Baylor University  
-- MHA, Health Administration — Baylor University  
+- PhD, Health Research and Policy<br>Baylor University, Department of Economics  
+- MS, Economics  
+- MHA, Health Administration 
 
 ### Experience
 - 2022–2025 — PhD Researcher, Military Health System  
