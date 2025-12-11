@@ -32,8 +32,8 @@ I am an applied microeconomist studying health economics and public policy, with
 - MHA, Health Administration 
 
 ### Experience
-- 2022–2025 — PhD Researcher, Military Health System  
-- 2019–2022 — Chief of Managed Care and Program Analysis, RHCE, Germany  
+- 2022–2025 — PhD Student  
+- 2019–2022 — Chief of Managed Care and Program Analysis<br>RHCE, Germany  
 - 2018–2019 — Executive Officer, Madigan Army Medical Center  
 - 2015–2018 — Chief of Managed Care, Madigan Army Medical Center  
 - 2014–2015 — Administrative Resident, Group Health Cooperative  
