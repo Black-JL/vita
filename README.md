@@ -24,7 +24,7 @@ I am an applied microeconomist studying health economics and public policy, with
 - 2025 — Stephenson Institute  
 - 2025 — AEA/ASSA, San Francisco, CA  
 - 2024 — SEA, Washington, D.C.  
-- 2024 — STATA Texas Empirical Microeconomics Conference, Dallas Fed (Poster)  
+- 2024 — STATA Texas Empirical Micro Conference, Dallas (Poster)  
 
 ### Education
 - PhD, Health Research and Policy — Baylor University, Department of Economics  
