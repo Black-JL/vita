@@ -11,11 +11,11 @@ I am an applied microeconomist studying health economics and public policy, with
 - Applied Microeconomics  
 
 ## Current Projects
-- *Psychedelic Decriminalization Effects on Emergency Care* (Working paper)  
-- *Inpatient Outcomes After Psychedelic Decriminalization* (Working paper)  
+- *Psychedelic Decriminalization Effects on Emergency Care* 
+- *Inpatient Outcomes After Psychedelic Decriminalization* 
 - *More Ado about Nothing? Questioning the Short and Long-term Effects of Data Breaches on Hospital Finances*  
-- *ElectionGPT* (Working)  
-- *“Ask an Economist” GPT*  
+- *ElectionGPT* 
+- *“Ask an Economist” [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)*  
 
 ## Teaching
 - Economics for MBAs  
@@ -25,7 +25,7 @@ I am an applied microeconomist studying health economics and public policy, with
 ## Presentations
 - 2025 — Stephenson Institute  
 - 2025 — AEA/ASSA, San Francisco, CA  
-- 2024 — Southern Economics Association Conference, Washington, D.C.  
+- 2024 — SEA, Washington, D.C.  
 - 2024 — STATA Texas Empirical Microeconomics Conference, Dallas Fed (Poster)  
 
 ## Education
