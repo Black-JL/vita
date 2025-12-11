@@ -44,15 +44,7 @@ I am an applied microeconomist studying health economics and public policy, with
 ---
 
 ## Connect with Me
-- **Email:** mailto:jared.black@baylor.edu  
-- **LinkedIn:** https://www.linkedin.com/in/jared-black-a1420a32/  
-- **GitHub:** https://github.com/Black-JL  
-- **Substack:** https://substack.com/@jlblack  
-
-### Connect with Me
-
 - [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:jared.black@baylor.edu)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/jared-black-ph-d-a1420a32/)
 - [![GitHub](https://img.shields.io/badge/GitHub-View-grey?logo=github)](https://github.com/Black-JL)
 - [![Substack](https://img.shields.io/badge/Substack-Follow-orange?logo=substack)](https://substack.com/@jlblack)
-
