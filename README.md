@@ -34,7 +34,7 @@
 ### Experience 
 - 2022 - 2025 - PhD Student
 - 2019 - 2022 - Chief of Managed Care and Program Analysis, RHCE, Germany
-- 2018 - 2019 - Executive Officer, [Madigan Army Medical Center](https://health.mil/Military-Health-Topics/DHA-GME/Institutions/Madigan)
+- 2018 - 2019 - Executive Officer, Madigan Army Medical Center
 - 2015 - 2018 - Chief of Managed Care, Madigan Army Medical Center
 - 2014 - 2015 - Administrative Resident, Group Health Cooperative
 - 2005 - 2015 - Medical Services Officer, U.S. Army
