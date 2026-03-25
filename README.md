@@ -16,9 +16,10 @@ I am an applied microeconomist studying health economics and public policy, with
 - “Ask an Economist” [GPT](https://chatgpt.com/g/g-GJeexE26G-ask-an-economist)  
 
 ### Teaching
-- Economics for MBAs  
 - Macroeconomics  
-- Health Economics  
+- Health Economics
+- Quantitative Analysis / Statistics
+- Applied Artificial Intelligence in Health Care
 
 ### Presentations
 - 2025 — Stephenson Institute  
